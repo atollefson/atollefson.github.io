@@ -1,0 +1,38 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-size: 15px;
+  font-family: helvetica neue, arial, sans-serif;
+  color: black;
+}
+h2 {
+  border-bottom: 5px solid black;
+}
+a { 
+  color: purple;
+}
+a:hover {
+  color: orange;
+}
+li { 
+  font-size: 15px;
+  line-height: 24px;
+}
+#title {
+  float: left;
+}
+#linkedin{
+  float: right;
+}
+#summary {
+  background-color: transparent;
+  clear:both;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+  height: auto;
+  text-align: center;
+  padding: 3px;
+  border: 1px solid black;
+  margin-top: 3px;
+}
